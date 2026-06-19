@@ -1,0 +1,8 @@
+# в витрине нет кода, но на всякий случай
+.env
+*.db
+*.log
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
